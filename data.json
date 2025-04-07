@@ -1,0 +1,166 @@
+{
+  "countries": [
+      {
+          "name": "France",
+          "timezone": "Europe/Paris",
+          "cities": [
+              {
+                  "name": "Paris",
+                  "description": "The city of lights and love...",
+                  "images": "https://media.cntraveller.com/photos/653783ab9da3a22eb97452f9/16:9/w_2560%2Cc_limit/Cheapest_time_to_go_to_Paris_October23_Getty_Images.jpg",
+                  "type": "cityscape"
+              },
+              {
+                  "name": "Nice",
+                  "description": "A beautiful coastal city on the French Riviera...",
+                  "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWz85q8T0fep7eM9JVTxvpH0n2cOam8KtJjg&s",
+                  "type": "beach"
+              }
+          ]
+      },
+      {
+          "name": "Japan",
+          "timezone": "Asia/Tokyo",
+          "cities": [
+              {
+                  "name": "Tokyo",
+                  "description": "A buzzing metropolis...",
+                  "images": "https://assets.cntraveller.in/photos/6352a8c00831d51e5aa10703/16:9/w_6000,h_3375,c_limit/tokyoGettyImages-1031467664.jpeg",
+                  "type": "cityscape"
+              },
+              {
+                  "name": "Kyoto",
+                  "description": "Famous for its classical temples...",
+                  "images": "https://i0.wp.com/andershusa.com/wp-content/uploads/2024/09/feature-where-to-eat-in-kyoto-japan-city-guide-and-map-of-the-best-restaurants-review-food-foodie-eat-eating-out-dine-dining-top-spots-places-tips-recommendation-travel-1-2023.jpg?fit=1200%2C800&ssl=1",
+                  "type": "temple"
+              }
+          ]
+      },
+      {
+          "name": "USA",
+          "timezone": "America/New_York",
+          "cities": [
+              {
+                  "name": "New York",
+                  "description": "The city that never sleeps...",
+                  "images": "https://cdn.britannica.com/61/93061-050-99147DCE/Statue-of-Liberty-Island-New-York-Bay.jpg",
+                  "type": "cityscape"
+              },
+              {
+                  "name": "Los Angeles",
+                  "description": "Known for Hollywood and beaches...",
+                  "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Los_Angeles_with_Mount_Baldy.jpg/330px-Los_Angeles_with_Mount_Baldy.jpg",
+                  "type": "beach"
+              }
+          ]
+      },
+      {
+          "name": "India",
+          "timezone": "Asia/Kolkata",
+          "cities": [
+              {
+                  "name": "Varanasi",
+                  "description": "One of the oldest cities...",
+                  "images": "https://www.ramadajhvvns.com/blog/wp-content/uploads/2018/01/1-1.jpg",
+                  "type": "temple"
+              },
+              {
+                  "name": "Goa",
+                  "description": "A beach destination...",
+                  "images": "https://thewandertherapy.com/wp-content/uploads/2024/03/4.beaches-goa.jpg",
+                  "type": "beach"
+              }
+          ]
+      },
+      {
+          "name": "Italy",
+          "timezone": "Europe/Rome",
+          "cities": [
+              {
+                  "name": "Rome",
+                  "description": "A historic city with ruins...",
+                  "images": "https://img.static-kl.com/images/media/5A8A006F-0618-4245-BBC88553D651B6E2",
+                  "type": "historic"
+              },
+              {
+                  "name": "Venice",
+                  "description": "A romantic city built on canals...",
+                  "images": "https://static.toiimg.com/photo/msid-98477448,width-96,height-65.cms",
+                  "type": "cityscape"
+              }
+          ]
+      },
+      {
+          "name": "Australia",
+          "timezone": "Australia/Sydney",
+          "cities": [
+              {
+                  "name": "Sydney",
+                  "description": "Home to the iconic Sydney Opera House...",
+                  "images": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/553000/553956-sydney-harbour-bridge.jpg",
+                  "type": "beach"
+              },
+              {
+                  "name": "Melbourne",
+                  "description": "A cultural capital...",
+                  "images": "https://www.visitmelbourne.com/-/media/images/melbourne/things-to-do/nature-and-wildlife/beaches/brighton-beach/brighton-beach-bathing-boxes_mel_r_163906_1150x863.jpg?ts=20240513120436",
+                  "type": "cityscape"
+              }
+          ]
+      },
+      {
+          "name": "Brazil",
+          "timezone": "America/Sao_Paulo",
+          "cities": [
+              {
+                  "name": "Rio de Janeiro",
+                  "description": "Known for Christ the Redeemer...",
+                  "images": "https://images.squarespace-cdn.com/content/v1/609d3f1781f4a87463f238cb/1736442246036-6R60D53MYPZOD1P0ZPAK/unsplash-image-tYGZvg-Ozh4.jpg",
+                  "type": "beach"
+              },
+              {
+                  "name": "Salvador",
+                  "description": "A historic city with Afro-Brazilian culture...",
+                  "images": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/08/11/salvador-city-scape.jpg?width=1200",
+                  "type": "historic"
+              }
+          ]
+      },
+      {
+          "name": "Thailand",
+          "timezone": "Asia/Bangkok",
+          "cities": [
+              {
+                  "name": "Bangkok",
+                  "description": "A bustling city filled with shrines...",
+                  "images": "https://ik.imagekit.io/tvlk/blog/2024/06/shutterstock_2461072741.jpg?tr=q-70,c-at_max,w-500,h-300,dpr-2",
+                  "type": "temple"
+              },
+              {
+                  "name": "Phuket",
+                  "description": "Known for beaches and nightlife...",
+                  "images": "https://www.aleenta.com/wp-content/uploads/Phi-Phi-Islands-Day-Trip.jpg",
+                  "type": "beach"
+              }
+          ]
+      },
+      {
+          "name": "United Kingdom",
+          "timezone": "Europe/London",
+          "cities": [
+              {
+                  "name": "London",
+                  "description": "A global city with a rich history...",
+                  "images": "https://railtour.ch/itineraries/destination-tours/London%20-%20Mit%20gutem%20Gewissen-95474/1098/image-thumb__1098__img-text-teaser/London%20-%20das%20gr%C3%BCne%20London%20entdecken-199835.541f8de9.jpg",
+                  "type": "cityscape"
+              },
+              {
+                  "name": "Bath",
+                  "description": "A historic city known for Roman baths...",
+                  "images": "https://i2-prod.somersetlive.co.uk/news/somerset-news/article9851153.ece/ALTERNATES/s615/0_Bath-Pulteney-Bridge-Poulteney-over-River-Avon-in-the-county-of-Somerset-England-UK.jpg",
+                  "type": "historic"
+              }
+          ]
+      }
+  ]
+}

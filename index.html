@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Recommendation</title>
+    <link href="style.css" rel="stylesheet"/>
+</head>
+<body>
+    <nav>
+        <div class="logo">
+            <img class="logo-img" src="https://media.istockphoto.com/id/1331620316/vector/love-travel-logo-template-design.jpg?s=612x612&w=0&k=20&c=nyyLBI6BF_YTsxOs2j0At6qA1e6jhI-Xfyxpf5vzY0A="/>
+            <h1>Travel with Anushka</h1>
+        </div>
+        <div>
+            <div class="navbar">
+                <div><a href="index.html">Home</a></div>
+                <div><a href="about.html">About us</a></div>
+                <div><a href="contact.html">Contact us</a></div>
+            </div>
+        </div>
+        <div>
+            <div class="Search">
+                <input id="search" placeholder="Enter your place here" type="text"/>
+                <img onclick="searchHandler()" src="https://t3.ftcdn.net/jpg/03/03/87/68/360_F_303876825_8HnFNgtvlo0mET2RBJMxNPcM7sJXTwMR.jpg"/>
+                <button onclick="searchHandler()">Search</button>
+                <button id="clear" onclick="clearResponse()">Clear</button>
+            </div>
+        </div>
+    </nav>
+    <main>
+        <div class="content">
+        <div class="main-heading">
+              Explore<br/> your Dream<br/> Destination
+        </div>
+        <div class="para">
+            <div class="para">
+                <p>
+                    Exploration is the heartbeat of every unforgettable journey. It's not just about visiting new places — it's about discovering hidden gems, immersing yourself in cultures, and collecting moments that stay with you forever. Whether you're wandering through ancient streets, tasting unfamiliar cuisines, or watching the sunset from a mountaintop, every step is a story waiting to be told. Let your curiosity guide you, and let the world surprise you.
+                </p>
+            </div>
+            
+        </div>
+        <button>Book Now</button>
+    </div>
+    <div id="time"></div>
+    <div class="options" id="options">
+    </div>
+    </main>
+    <script src="index.js"></script>
+</body>
+</html>
