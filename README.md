@@ -14,7 +14,7 @@ This is a simple and user-friendly travel recommendation website that helps user
 📦 root/ ┣ 📄 index.html ┣ 📄 about.html ┣ 📄 contact.html ┣ 📄 style.css ┣ 📄 script.js ┣ 📄 data.json ┗ 📄 README.md
 
 ## 🌐 Live Demo
-
+https://anushkakotiyal.github.io/Travel-Recommendation/
 
 ## 🌎 Supported Countries in JSON
 
