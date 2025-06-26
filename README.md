@@ -15,8 +15,6 @@ This is a simple and user-friendly travel recommendation website that helps user
 
 ## 🌐 Live Demo
 
-You can view the deployed version at:  
-`https://your-username.github.io/your-repo-name/`
 
 ## 🌎 Supported Countries in JSON
 
